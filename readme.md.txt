@@ -1,0 +1,2 @@
+This is an application that takes your weight as an input as well as a planet of your choice and recalulates what your weight would be on that planet. 
+To use, simply enter a weight and choose a planet that you would like to travel to.
